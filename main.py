@@ -3,7 +3,6 @@ from logging.config import listen
 import socket ,sys
 from _thread import *
 
-
 try:
     listening_port = int(input("[*] Enter Listening Port Number:"))
 except KeyboardInterrupt:
