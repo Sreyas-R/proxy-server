@@ -9,7 +9,6 @@ except KeyboardInterrupt:
     print("\n User requested an Interrupt")
     print("Application Exiting...")
     sys.exit()
-
 max_conn =5
 buffer_size = 8192
 
